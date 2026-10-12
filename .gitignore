@@ -4,6 +4,10 @@
 # Python 缓存
 __pycache__/
 *.pyc
+.pytest_cache/
+
+# CS61A 作业里的过程记录（VS Code Provenance 扩展在写，每次操作都在变，提交只会刷屏）
+.provenance/
 
 # 编辑器 / 系统杂项
 .vscode/
