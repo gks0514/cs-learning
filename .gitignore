@@ -1,0 +1,11 @@
+# CS61A 每个作业包自带的便携 pytest 与判分插件（约 500 个文件，不要提交进仓库）
+.grader/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 编辑器 / 系统杂项
+.vscode/
+.DS_Store
+Thumbs.db
